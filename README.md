@@ -1,3 +1,2 @@
-# demo_repo
-# DEMO
+#DEMO
 this is a demo for creating github repos and documents
